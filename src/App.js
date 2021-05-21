@@ -1,7 +1,11 @@
 import React from 'react';
-import './App.css';
+//import './App.css';
+//import Directory from '../components/directory/directory.component';
+//import MenuItem from '../components/menu-item/menu-item.component'
 
-import HomePage from './homepage.component';
+import HomePage from './pages/homepage/homepage.component';
+
+
 
 function App() {
   return <div>
